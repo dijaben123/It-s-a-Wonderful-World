@@ -1,0 +1,1351 @@
+févr. 26, 2024 12:33:02 PM iww.ConfigLogTest testSetup
+INFO: Ceci est un message d'information.
+févr. 26, 2024 12:33:02 PM iww.ConfigLogTest testSetup
+WARNING: Ceci est un avertissement.
+févr. 26, 2024 12:33:02 PM iww.ConfigLogTest testSetup
+SEVERE: Ceci est une erreur grave.
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+févr. 26, 2024 12:33:03 PM iww.Construction distributionKrystallium
+INFO: Krystallium : 1
+févr. 26, 2024 12:33:03 PM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+févr. 26, 2024 12:33:03 PM iww.Construction distributionKrystallium
+INFO: 1
+févr. 26, 2024 12:33:03 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:03 PM iww.Construction affichageChoix
+INFO:       [1] aucune
+févr. 26, 2024 12:33:03 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:03 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Plateforme Petroliere
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [5] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [6] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [7] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [8] Ville Casino
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [9] Division de Chars
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [10] Brise Glace
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>10] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         4
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [5] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [6] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [7] Ville Casino
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [8] Division de Chars
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [9] Brise Glace
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>9] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         9
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [5] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [6] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [7] Ville Casino
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [8] Division de Chars
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>8] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         3
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [5] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [6] Ville Casino
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [7] Division de Chars
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>7] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         6
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [5] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [6] Division de Chars
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>6] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         10
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [5] Centrale Nucleaire
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [6] Division de Chars
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>6] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         5
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [5] Division de Chars
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>5] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         5
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>4] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         5
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Automates de Controle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [4] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>4] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         3
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Realite Virtuelle
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [3] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>3] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [2] Laboratoire Aeroporte
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>2] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         [1] Train Magnetique
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>1] pour annuler
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:03 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 tient ce paquet : [Juggernaut, Zeppelin, Complexe Industriel, Complexe Industriel, Place Financiere, Zeppelin, Inverseur de Gravite, Centrale Nucleaire, Usine de Recyclage, Monument National]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 tient ce paquet : [Agence d'Espionnage, Usine de Recyclage, Base Militaire, Plateforme Petroliere, Greffe Bionique, Neuroscience, Centre de Propagande, Sous Marin, Amelioration Genetique, Exposition Universelle]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 tient ce paquet : [Usine de Recyclage, Laboratoire Secret, Centre de Recherche, Plateforme Petroliere, Complexe Industriel, Base Polaire, Division de Chars, Plateforme Petroliere, Sous Marin, Controle du Climat]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 revele sa carte : Usine de Recyclage
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 revele sa carte : Amelioration Genetique
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 revele sa carte : Plateforme Petroliere
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 revele sa carte : Plateforme Petroliere
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Agence d'Espionnage, Usine de Recyclage, Base Militaire, Greffe Bionique, Neuroscience, Centre de Propagande, Sous Marin, Exposition Universelle]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 revele sa carte : Plateforme Petroliere
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Usine de Recyclage, Laboratoire Secret, Centre de Recherche, Complexe Industriel, Base Polaire, Division de Chars, Sous Marin, Controle du Climat]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 revele sa carte : Centrale Nucleaire
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Juggernaut, Zeppelin, Complexe Industriel, Complexe Industriel, Place Financiere, Zeppelin, Inverseur de Gravite, Monument National]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 revele sa carte : Laboratoire Secret
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Usine de Recyclage, Centre de Recherche, Complexe Industriel, Base Polaire, Division de Chars, Sous Marin, Controle du Climat]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 revele sa carte : Complexe Industriel
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Juggernaut, Zeppelin, Complexe Industriel, Place Financiere, Zeppelin, Inverseur de Gravite, Monument National]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 revele sa carte : Greffe Bionique
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Agence d'Espionnage, Usine de Recyclage, Base Militaire, Neuroscience, Centre de Propagande, Sous Marin, Exposition Universelle]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 revele sa carte : Complexe Industriel
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Juggernaut, Zeppelin, Place Financiere, Zeppelin, Inverseur de Gravite, Monument National]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 revele sa carte : Neuroscience
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Agence d'Espionnage, Usine de Recyclage, Base Militaire, Centre de Propagande, Sous Marin, Exposition Universelle]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 revele sa carte : Complexe Industriel
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Usine de Recyclage, Centre de Recherche, Base Polaire, Division de Chars, Sous Marin, Controle du Climat]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 revele sa carte : Centre de Propagande
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Agence d'Espionnage, Usine de Recyclage, Base Militaire, Sous Marin, Exposition Universelle]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 revele sa carte : Sous Marin
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Usine de Recyclage, Centre de Recherche, Base Polaire, Division de Chars, Controle du Climat]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 revele sa carte : Inverseur de Gravite
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Juggernaut, Zeppelin, Place Financiere, Zeppelin, Monument National]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 revele sa carte : Division de Chars
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Usine de Recyclage, Centre de Recherche, Base Polaire, Controle du Climat]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 revele sa carte : Place Financiere
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Juggernaut, Zeppelin, Zeppelin, Monument National]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 revele sa carte : Agence d'Espionnage
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Usine de Recyclage, Base Militaire, Sous Marin, Exposition Universelle]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 revele sa carte : Zeppelin
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Juggernaut, Zeppelin, Monument National]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 revele sa carte : Base Militaire
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Usine de Recyclage, Sous Marin, Exposition Universelle]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 revele sa carte : Centre de Recherche
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Usine de Recyclage, Base Polaire, Controle du Climat]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 1 revele sa main finale : [Usine de Recyclage, Plateforme Petroliere, Laboratoire Secret, Complexe Industriel, Centre de Propagande, Division de Chars, Zeppelin]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 2 revele sa main finale : [Amelioration Genetique, Plateforme Petroliere, Complexe Industriel, Neuroscience, Sous Marin, Place Financiere, Base Militaire]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft2J
+INFO: Joueur 3 revele sa main finale : [Plateforme Petroliere, Centrale Nucleaire, Greffe Bionique, Complexe Industriel, Inverseur de Gravite, Agence d'Espionnage, Centre de Recherche]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 tient ce paquet : [Sous Marin, Usine de Recyclage, Tombeau d'Alexandre, Animorphes, Technologie inconnue, Mega Foreuse, Complexe Industriel]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 tient ce paquet : [Barrage Geant, Eoliennes, Centre de Recherche, Centrale Nucleaire, Controle du Climat, Amelioration Genetique, Usine de Recyclage]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 tient ce paquet : [Monument National, Complexe Industriel, Jardin des Hesperides, Eoliennes, Place Financiere, Centrale Nucleaire, Place Financiere]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 revele sa carte : Sous Marin
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 revele sa carte : Usine de Recyclage
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 revele sa carte : Place Financiere
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 revele sa carte : Controle du Climat
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Barrage Geant, Eoliennes, Centre de Recherche, Centrale Nucleaire, Amelioration Genetique]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 revele sa carte : Eoliennes
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Monument National, Complexe Industriel, Jardin des Hesperides, Place Financiere, Centrale Nucleaire]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 revele sa carte : Usine de Recyclage
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Tombeau d'Alexandre, Animorphes, Technologie inconnue, Mega Foreuse, Complexe Industriel]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 revele sa carte : Monument National
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Complexe Industriel, Jardin des Hesperides, Place Financiere, Centrale Nucleaire]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 revele sa carte : Technologie inconnue
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Tombeau d'Alexandre, Animorphes, Mega Foreuse, Complexe Industriel]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 revele sa carte : Centre de Recherche
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Barrage Geant, Eoliennes, Centrale Nucleaire, Amelioration Genetique]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 revele sa carte : Mega Foreuse
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Tombeau d'Alexandre, Animorphes, Complexe Industriel]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 revele sa carte : Eoliennes
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Barrage Geant, Centrale Nucleaire, Amelioration Genetique]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 revele sa carte : Place Financiere
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Complexe Industriel, Jardin des Hesperides, Centrale Nucleaire]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 revele sa carte : Centrale Nucleaire
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Barrage Geant, Amelioration Genetique]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 revele sa carte : Complexe Industriel
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Jardin des Hesperides, Centrale Nucleaire]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 revele sa carte : Animorphes
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Tombeau d'Alexandre, Complexe Industriel]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 revele sa carte : Jardin des Hesperides
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 passe ce paquet au joueur suivant : [Centrale Nucleaire]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 revele sa carte : Tombeau d'Alexandre
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 passe ce paquet au joueur suivant : [Complexe Industriel]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 revele sa carte : Barrage Geant
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 passe ce paquet au joueur suivant : [Amelioration Genetique]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 a pioché une carte au hasard.
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 revele sa carte : Complexe Industriel
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 revele sa carte : Amelioration Genetique
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 revele sa carte : Centrale Nucleaire
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 1 revele sa main finale : [Sous Marin, Controle du Climat, Monument National, Mega Foreuse, Centrale Nucleaire, Jardin des Hesperides, Complexe Industriel]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 2 revele sa main finale : [Usine de Recyclage, Eoliennes, Technologie inconnue, Eoliennes, Complexe Industriel, Tombeau d'Alexandre, Amelioration Genetique]
+févr. 26, 2024 12:33:03 PM iww.Draft lancementDraft
+INFO: Joueur 3 revele sa main finale : [Place Financiere, Usine de Recyclage, Centre de Recherche, Place Financiere, Animorphes, Barrage Geant, Centrale Nucleaire]
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanification
+INFO: **C'est au tour de Joueur1 de jouer!**
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanification
+INFO:     Distribution des ressources
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanification
+INFO: **C'est au tour de Joueur2 de jouer!**
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanification
+INFO:     Distribution des ressources
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: paquet : 1
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Porte Avions
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Roswell
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte : Ville Souterraine
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte : Ascenseur Spatial
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte : Centre de Recherche
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet ne convient pas , choisissez 2 cartes a defausser
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Ascenseur Spatial
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Roswell
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici 5 cartes temporaires. Choisissez une carte
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte Temporaire : Tour Geante
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte Temporaire : Zone Portuaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte Temporaire : Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte Temporaire : Place Financiere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte Temporaire : Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de prendre la carte : Place Financiere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici le nouveau paquet : 
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Porte Avions
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Ville Souterraine
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte : Centre de Recherche
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte : Place Financiere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Porte Avions
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Porte Avions
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Ville Souterraine
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Ville Souterraine
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Centre de Recherche
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Centre de Recherche
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Place Financiere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Place Financiere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:     Cartes en construction du joueur:
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:     Distribution des ressources
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: paquet : 2
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Usine de Recyclage
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Voyage Temporel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte : Base Polaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte : Plateforme Petroliere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte : Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet ne convient pas , choisissez 2 cartes a defausser
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Voyage Temporel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Base Polaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici 5 cartes temporaires. Choisissez une carte
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte Temporaire : Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte Temporaire : Centre de Recherche
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte Temporaire : Centre de Recherche
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte Temporaire : Vaccin Universel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte Temporaire : Amelioration Genetique
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de prendre la carte : Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici le nouveau paquet : 
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Usine de Recyclage
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Plateforme Petroliere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte : Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte : Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet ne convient pas , choisissez 2 cartes a defausser
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Usine de Recyclage
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici 5 cartes temporaires. Choisissez une carte
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte Temporaire : Plateforme Petroliere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte Temporaire : Teleportation
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte Temporaire : Brise Glace
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte Temporaire : Musee
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte Temporaire : Brise Glace
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de prendre la carte : Brise Glace
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici le nouveau paquet : 
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Plateforme Petroliere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte : Brise Glace
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet ne convient pas , choisissez 2 cartes a defausser
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Plateforme Petroliere
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici 5 cartes temporaires. Choisissez une carte
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte Temporaire : Centrale Nucleaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte Temporaire : Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte Temporaire : Agence d'Espionnage
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte Temporaire : Division de Chars
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte Temporaire : Arche d'Alliance
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de prendre la carte : Division de Chars
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici le nouveau paquet : 
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Brise Glace
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Division de Chars
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de construire Brise Glace
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Division de Chars
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur1 a recyclé la carte Division de Chars
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:     Cartes en construction du joueur:
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:           Brise Glace
+
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:     Distribution des ressources
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 2
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] Brise Glace 
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [2] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         ressource distribuee à [1] Brise Glace
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] Brise Glace 
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [2] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: paquet : 1
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Triangle des Bermudes
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Transmutation
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte : Universite
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte : Mega Foreuse
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte : Centrale Nucleaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet ne convient pas , choisissez 2 cartes a defausser
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Universite
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de defausser la carte : Triangle des Bermudes
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici 5 cartes temporaires. Choisissez une carte
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte Temporaire : Inverseur de Gravite
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte Temporaire : Mines du Roi Salomon
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte Temporaire : Zeppelin
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte Temporaire : Base Lunaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte Temporaire : Mega Bombe
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Vous avez choisis de prendre la carte : Inverseur de Gravite
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Voici le nouveau paquet : 
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Transmutation
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Mega Foreuse
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte : Centrale Nucleaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte : Inverseur de Gravite
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Transmutation
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Transmutation
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Mega Foreuse
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Mega Foreuse
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Centrale Nucleaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Centrale Nucleaire
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de construire Inverseur de Gravite
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:     Cartes en construction du joueur:
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:           Inverseur de Gravite
+
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:     Distribution des ressources
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] Inverseur de Gravite 
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [2] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: paquet : 2
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [0] Carte : Fontaine de Jouvence
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [1] Carte : Usine de Recyclage
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [2] Carte : Laboratoire Aeroporte
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [3] Carte : Continent Perdu de Mu
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: [4] Carte : Reseau de Transport
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO: Le paquet vous convient-il ? (oui/non)
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Fontaine de Jouvence
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Fontaine de Jouvence
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de construire Usine de Recyclage
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Laboratoire Aeroporte
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Laboratoire Aeroporte
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Continent Perdu de Mu
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Continent Perdu de Mu
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Vous avez choisi de recycler
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Reseau de Transport
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:         Joueur2 a recyclé la carte Reseau de Transport
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:     Cartes en construction du joueur:
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:           Inverseur de Gravite
+
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:           Usine de Recyclage
+
+févr. 26, 2024 12:33:04 PM iww.Planification startPlanificationUnJoueur
+INFO:     Distribution des ressources
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] Usine de Recyclage 
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [2] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] Inverseur de Gravite 
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [2] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] Inverseur de Gravite 
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [2] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+févr. 26, 2024 12:33:04 PM iww.Construction affichageChoix
+INFO:       [1] aucune
+févr. 26, 2024 12:33:04 PM iww.Construction choix
+INFO:         Ressource stockée
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+févr. 26, 2024 12:33:04 PM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+févr. 26, 2024 12:33:04 PM iww.Construction distributionKrystallium
+INFO: Krystallium : 1
+févr. 26, 2024 12:33:04 PM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+févr. 26, 2024 12:33:04 PM iww.Construction distributionKrystallium
+INFO: 1
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 0 materiau au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 possede 0 materiau
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 materiau via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 materiau via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 materiau via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 materiau via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 materiau via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 materiau via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 6 materiau au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 possede 6 materiau
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2gagne 1 financier
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Nombre de financiers 1
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2gagne 1 financier
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Nombre de financiers 2
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 1 energie via Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 1 energie via Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 1 energie via Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 1 energie via Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 1 energie via Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 1 energie via Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 1 energie via Eoliennes
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 7 energie au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 possede 7 energie
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 gagne 1general
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Nombre de generaux 1
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 0 energie au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 possede 0 energie
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 gagne 1 general
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Nombre de generaux 2
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 0 science au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 possede 0 science
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 0 science au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 possede 0 science
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 0 or au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 possede 0 or
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 or via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 or via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 or via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 or via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 or via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 1 or via Complexe Industriel
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 6 or au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 possede 6 or
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2gagne 1 financier
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Nombre de financiers 3
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2gagne 1 financier
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Nombre de financiers 4
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         1
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 a produit 0 exploration au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 1 possede 0 exploration
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+févr. 26, 2024 12:33:04 PM iww.Defausse defausseEnConstruction
+INFO:         2
+
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 a produit 0 exploration au total
+févr. 26, 2024 12:33:04 PM iww.Production startProduction
+INFO: Le joueur Joueur 2 possede 0 exploration
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+févr. 26, 2024 12:33:04 PM iww.Joueur stockRessource
+INFO:         Ressource stockées 0

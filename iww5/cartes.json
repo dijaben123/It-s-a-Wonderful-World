@@ -1,0 +1,3292 @@
+{
+    "1":
+        {
+            "index":1,
+            "nom": "Agence d'Espionnage",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":2,
+                "or":2
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+ 
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "2":
+        {
+            "index":2,
+            "nom": "Agence d'Espionnage",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":2,
+                "or":2
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "3":
+        {
+            "index":3,
+            "nom": "Ascenseur Spatial",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":3,
+                "science":1,
+                "or":2
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                "financier":1
+            }
+        },
+
+    "4":
+        {
+            "index":4,
+            "nom": "Barrage Geant",
+            "type": "Projet",
+            "coutConstruction":{
+                "materiau":3,
+                "or":2
+            },
+            "production":{
+                "energie":4
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "5":
+        {
+            "index":5,
+            "nom": "Base Lunaire",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":2,
+                "science":2,
+                "or":1,
+                "krystallium":1
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                "general":2
+            },
+            "pointVictoire":{
+                ".":10
+            }
+        },
+    "6":
+        {
+            "index":6,
+            "nom": "Base Polaire",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":3,
+                "or":4
+            },
+            "production":{
+                "exploration":3
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                "Decouverte":2
+            }
+        },
+    "7":
+        {
+            "index":7,
+            "nom": "Canon Solaire",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":2,
+                "science":1,
+                "or":3
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                "general":1
+            }
+        },
+    "8":
+        {
+            "index":8,
+            "nom": "Centre de Propagande",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":3
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "9":
+        {
+            "index":9,
+            "nom": "Centre de Propagande",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":3
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "10":
+        {
+            "index":10,
+            "nom": "Congres Mondial",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":6,
+                "financier":2
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                "Projet":3
+            }
+        },
+    "11":
+        {
+            "index":11,
+            "nom": "Exposition Universelle",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":3,
+                "financier":2
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                "Recherche":3
+            }
+        },
+    "12":
+        {
+            "index":12,
+            "nom": "Laboratoire Secret",
+            "type": "Projet",
+            "coutConstruction":{
+                "materiau":2,
+                "or":3
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                "krystallium":1
+            },
+            "pointVictoire":{
+                "Recherche":1
+            }
+        },
+    "13":
+        {
+            "index":13,
+            "nom": "Laboratoire Secret",
+            "type": "Projet",
+            "coutConstruction":{
+                "materiau":2,
+                "or":3
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                "krystallium":1
+            },
+            "pointVictoire":{
+                "Recherche":1
+            }
+        },
+    "14":
+        {
+            "index":14,
+            "nom": "Monument National",
+            "type": "Projet",
+            "coutConstruction":{
+                "materiau":5,
+                "or":3
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                "Projet":2
+            }
+        },
+    "15":
+        {
+            "index":15,
+            "nom": "Musee",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":3
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Decouverte":2
+            }
+        },
+    "16":
+        {
+            "index":16,
+            "nom": "Musee",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":3
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Decouverte":2
+            }
+        }, 
+    "17":
+        {
+            "index":17,
+            "nom": "Societe Secrete",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":3,
+                "krystallium":1
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+
+                
+            },
+            "pointVictoire":{
+                "financier":1
+            }
+        },
+    "18":
+        {
+            "index":18,
+            "nom": "Societe Secrete",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":3,
+                "krystallium":1
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+
+                
+            },
+            "pointVictoire":{
+                "financier":1
+            }
+        },
+    "19":
+        {
+            "index":19,
+            "nom": "Tour Geante",
+            "type": "Projet",
+            "coutConstruction":{
+                "materiau":2,
+                "or":3,
+                "financier":1
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+
+                
+            },
+            "pointVictoire":{
+                ".":10
+            }
+        },
+    "20":
+        {
+            "index":20,
+            "nom": "Train Magnetique",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":1,
+                "science":1,
+                "or":3
+            },
+            "production":{
+                "or":"Structure"
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":2
+                
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "21":
+        {
+            "index":21,
+            "nom": "Universite",
+            "type": "Projet",
+            "coutConstruction":{
+                "science":1,
+                "or":2
+            },
+            "production":{
+                "science":"Projet"
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+
+                
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "22":
+        {
+            "index":22,
+            "nom": "Ville Casino",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":3,
+                "or":4
+            },
+            "production":{
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                "financier":1
+            }
+        },
+    "23":
+        {
+            "index":23,
+            "nom": "Ville Casino",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":3,
+                "or":4
+            },
+            "production":{
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                "financier":1
+            }
+        },
+    "24":
+        {
+            "index":24,
+            "nom": "Ville Sous Marine",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":2,
+                "science":1,
+                "or":2
+            },
+            "production":{
+                "science":1,
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "25":
+        {
+            "index":25,
+            "nom": "Ville Sous Marine",
+            "type": "Projet",
+            "coutConstruction":{
+                "energie":2,
+                "science":1,
+                "or":2
+            },
+            "production":{
+                "science":1,
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "26":
+        {
+            "index":26,
+            "nom": "Ville Souterraine",
+            "type": "Projet",
+            "coutConstruction":{
+                "materiau":3,
+                "or":3
+            },
+            "production":{
+                "materiau":2,
+                "energie":2
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                "krystallium":1
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "27":
+        {
+            "index":27,
+            "nom": "Ville Souterraine",
+            "type": "Projet",
+            "coutConstruction":{
+                "materiau":3,
+                "or":3
+            },
+            "production":{
+                "materiau":2,
+                "energie":2
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                "krystallium":1
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "28":
+        {
+            "index":28,
+            "nom": "Zone Portuaire",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":5
+            },
+            "production":{
+                "materiau":2,
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":2
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "29":
+        {
+            "index":29,
+            "nom": "Zone Portuaire",
+            "type": "Projet",
+            "coutConstruction":{
+                "or":5
+            },
+            "production":{
+                "materiau":2,
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":2
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "30":
+        {
+            "index":30,
+            "nom": "Amelioration Genetique",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":4
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                "financier":2
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "31":
+        {
+            "index":31,
+            "nom": "Animorphes",
+            "type": "Recherche",
+            "coutConstruction":{
+                "energie":1,
+                "science":2
+            },
+            "production":{
+                "materiau":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "32":
+        {
+            "index":32,
+            "nom": "Aquaculture",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":4,
+                "or":2
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                "financier":1
+            }
+        },
+    "33":
+        {
+            "index":33,
+            "nom": "Automates de Controle",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":4,
+                "or":1
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "general":1
+            }
+        },
+    "34":
+        {
+            "index":34,
+            "nom": "Clonage Humain",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":2,
+                "or":1
+            },
+            "production":{
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "35":
+        {
+            "index":35,
+            "nom": "Controle du Climat",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":5
+            },
+            "production":{
+                "energie":2,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "36":
+        {
+            "index":36,
+            "nom": "Cryogenisation",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":7
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                "financier":1
+            }
+        },  
+    "37":
+        {
+            "index":37,
+            "nom": "Inverseur de Gravite",
+            "type": "Recherche",
+            "coutConstruction":{
+                "energie":1,
+                "science":4,
+                "krystallium":1
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                "Projet":2
+            }
+        },
+    "38":
+        {
+            "index":38,
+            "nom": "Generateur Quantique",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":5
+            },
+            "production":{
+                "energie":3
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Vehicule":1
+            }
+        },
+    "39":
+        {
+            "index":39,
+            "nom": "Greffe Bionique",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":5
+            },
+            "production":{
+                "materiau":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                ".":4
+            }
+        },
+    "40":
+        {
+            "index":40,
+            "nom": "Mega Bombe",
+            "type": "Recherche",
+            "coutConstruction":{
+                "energie":2,
+                "science":2
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                "general":2
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "41":
+        {
+            "index":41,
+            "nom": "Neuroscience",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":3
+            },
+            "production":{
+                "science":"Recherche"
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "42":
+        {
+            "index":42,
+            "nom": "Realite Virtuelle",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":5
+            },
+            "production":{
+                "or":"Recherche"
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "43":
+        {
+            "index":43,
+            "nom": "Robots de Compagnie",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":3
+            },
+            "production":{
+                "materiau":"Structure"
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "44":
+        {
+            "index":44,
+            "nom": "Satellites",
+            "type": "Recherche",
+            "coutConstruction":{
+                "energie":2,
+                "science":4
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "45":
+        {
+            "index":45,
+            "nom": "Super Calculateur",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":4
+            },
+            "production":{
+                "science":1
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Vehicule":1
+            }
+        },
+    "46":
+        {
+            "index":46,
+            "nom": "Super Soldats",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":7
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                "general":1
+            }
+        },
+    "47":
+        {
+            "index":47,
+            "nom": "Super Sonar",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":4
+            },
+            "production":{
+                "exploration":"Vehicule"
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "48":
+        {
+            "index":48,
+            "nom": "Technologie inconnue",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":7,
+                "krystallium":1
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Recherche":3
+            }
+        },
+    "49":
+        {
+            "index":49,
+            "nom": "Teleportation",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":8
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                "krystallium":2
+            },
+            "pointVictoire":{
+                ".":8
+            }
+        },
+    "50":
+        {
+            "index":50,
+            "nom": "Transmutation",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":3,
+                "or":2
+            },
+            "production":{
+                "or":3
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "krystallium":1
+            },
+            "pointVictoire":{
+                ".":1
+            }
+        },
+    "51":
+        {
+            "index":51,
+            "nom": "Vaccin Universel",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":3
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Projet":1
+            }
+        },
+    "52":
+        {
+            "index":52,
+            "nom": "Voyage Temporel",
+            "type": "Recherche",
+            "coutConstruction":{
+                "science":5,
+                "krystallium":3
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":15
+            }
+        },
+    "53":
+        {
+            "index":53,
+            "nom": "Anciens Astronautes",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":6,
+                "general":1
+            },
+            "production":{
+                "science":"Decouverte"
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                "krystallium":2
+            },
+            "pointVictoire":{
+                ".":10
+            }
+        },
+    "54":
+        {
+            "index":54,
+            "nom": "Arche d'Alliance",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":4
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                "krystallium":1
+            },
+            "pointVictoire":{
+                ".":5
+            }
+        },
+    "55":
+        {
+            "index":55,
+            "nom": "Atlantide",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":7,
+                "krystallium":1
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "general":2
+            }
+        },
+    "56":
+        {
+            "index":56,
+            "nom": "Centre de la Terre",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":5,
+                "general":2
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":15
+            }
+        },
+    "57":
+        {
+            "index":57,
+            "nom": "Cite d'Agartha",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":4,
+                "krystallium":1
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                "general":1
+            }
+        },
+    "58":
+        {
+            "index":58,
+            "nom": "Cites d'Or",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":4
+            },
+            "production":{
+                "or":3
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "59":
+        {
+            "index":59,
+            "nom": "Continent Perdu de Mu",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":6
+            },
+            "production":{
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "krystallium":2
+            },
+            "pointVictoire":{
+                "Decouverte":2
+            }
+        },
+    "60":
+        {
+            "index":60,
+            "nom": "Dimension Parallele",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "science":3,
+                "exploration":4,
+                "general":1
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                "krystallium":3
+            },
+            "pointVictoire":{
+                "Recherche":3
+            }
+        },
+    "61":
+        {
+            "index":61,
+            "nom": "Fontaine de Jouvence",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":7
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                "krystallium":3
+            },
+            "pointVictoire":{
+                "general":1
+            }
+        },
+    "62":
+        {
+            "index":62,
+            "nom": "Ile d'Avalon",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":5
+            },
+            "production":{
+                "science":1
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":7
+            }
+        },
+    "63":
+        {
+            "index":63,
+            "nom": "Jardin des Hesperides",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":5
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Projet":2
+            }
+        },
+    "64":
+        {
+            "index":64,
+            "nom": "Mines du Roi Salomon",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":4
+            },
+            "production":{
+                "or":"Structure"
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "65":
+        {
+            "index":65,
+            "nom": "Roswell",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":6
+            },
+            "production":{
+                "science":1
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                "general":1
+            }
+        },
+    "66":
+        {
+            "index":66,
+            "nom": "Tombeau d'Alexandre",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":7
+            },
+            "production":{
+
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "general":2
+            },
+            "pointVictoire":{
+                ".":10
+            }
+        },
+    "67":
+        {
+            "index":67,
+            "nom": "Tresor de Barbe Noire",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":3
+            },
+            "production":{
+                "or":1,
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                ".":2
+            }
+        },
+    "68":
+        {
+            "index":68,
+            "nom": "Tresor des Templiers",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":5
+            },
+            "production":{
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "krystallium":2
+            },
+            "pointVictoire":{
+                ".":3
+            }
+        },
+    "69":
+        {
+            "index":69,
+            "nom": "Triangle des Bermudes",
+            "type": "Decouverte",
+            "coutConstruction":{
+                "exploration":4
+            },
+            "production":{
+                "science":1
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                "krystallium":1
+            },
+            "pointVictoire":{
+                ".":4
+            }
+        },
+    "70":
+        {
+            "index":70,
+            "nom": "Brise Glace",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3,
+                "science":1
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "71":
+        {
+            "index":71,
+            "nom": "Brise Glace",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3,
+                "science":1
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "72":
+        {
+            "index":72,
+            "nom": "Brise Glace",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3,
+                "science":1
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "73":
+        {
+            "index":73,
+            "nom": "Brise Glace",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3,
+                "science":1
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "74":
+        {
+            "index":74,
+            "nom": "Division de Chars",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "75":
+        {
+            "index":75,
+            "nom": "Division de Chars",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "76":
+        {
+            "index":76,
+            "nom": "Division de Chars",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "77":
+        {
+            "index":77,
+            "nom": "Division de Chars",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "78":
+        {
+            "index":78,
+            "nom": "Division de Chars",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "79":
+        {
+            "index":79,
+            "nom": "Division de Chars",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "80":
+        {
+            "index":80,
+            "nom": "Division de Chars",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "81":
+        {
+            "index":81,
+            "nom": "Escadrille de Soucoupes",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3,
+                "science":2
+            },
+            "production":{
+                "exploration":3
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "82":
+        {
+            "index":82,
+            "nom": "Escadrille de Soucoupes",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3,
+                "science":2
+            },
+            "production":{
+                "exploration":3
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "83":
+        {
+            "index":83,
+            "nom": "Juggernaut",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":3,
+                "krystallium":1
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":2
+            },
+            "pointVictoire":{
+                "Vehicule":1
+            }
+        },
+    "84":
+        {
+            "index":84,
+            "nom": "Laboratoire Aeroporte",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3
+            },
+            "production":{
+                "science":1,
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "85":
+        {
+            "index":85,
+            "nom": "Laboratoire Aeroporte",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3
+            },
+            "production":{
+                "science":1,
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "86":
+        {
+            "index":86,
+            "nom": "Laboratoire Aeroporte",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":3
+            },
+            "production":{
+                "science":1,
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "87":
+        {
+            "index":87,
+            "nom": "Mega Foreuse",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "materiau":1,
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "88":
+        {
+            "index":88,
+            "nom": "Mega Foreuse",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "materiau":1,
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "89":
+        {
+            "index":89,
+            "nom": "Mega Foreuse",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "materiau":1,
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "90":
+        {
+            "index":90,
+            "nom": "Mega Foreuse",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":1,
+                "energie":2
+            },
+            "production":{
+                "materiau":1,
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "91":
+        {
+            "index":91,
+            "nom": "Porte Avions",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":4
+            },
+            "production":{
+                "exploration":"Vehicule"
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":2
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "92":
+        {
+            "index":92,
+            "nom": "Sous Marin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":2,
+                "energie":3
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "93":
+        {
+            "index":93,
+            "nom": "Sous Marin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":2,
+                "energie":3
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "94":
+        {
+            "index":94,
+            "nom": "Sous Marin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "materiau":2,
+                "energie":3
+            },
+            "production":{
+                "exploration":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "95":
+        {
+            "index":95,
+            "nom": "Zeppelin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "96":
+        {
+            "index":96,
+            "nom": "Zeppelin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "97":
+        {
+            "index":97,
+            "nom": "Zeppelin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "98":
+        {
+            "index":98,
+            "nom": "Zeppelin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "99":
+        {
+            "index":99,
+            "nom": "Zeppelin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "100":
+        {
+            "index":100,
+            "nom": "Zeppelin",
+            "type": "Vehicule",
+            "coutConstruction":{
+                "energie":2
+            },
+            "production":{
+                "exploration":1
+            },
+            "bonusRecyclage":{
+                "exploration":1
+            },
+            "bonusConstruc":{
+
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "101":
+        {
+            "index":101,
+            "nom": "Base Militaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "science":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "102":
+        {
+            "index":102,
+            "nom": "Base Militaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "science":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "103":
+        {
+            "index":103,
+            "nom": "Base Militaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "science":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "104":
+        {
+            "index":104,
+            "nom": "Base Militaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "science":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "105":
+        {
+            "index":105,
+            "nom": "Base Militaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "science":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "106":
+        {
+            "index":106,
+            "nom": "Base Militaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "science":1
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                "general":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "107":
+        {
+            "index":107,
+            "nom": "Centrale Nucleaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4,
+                "science":1
+            },
+            "production":{
+                "energie":3
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "108":
+        {
+            "index":108,
+            "nom": "Centrale Nucleaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4,
+                "science":1
+            },
+            "production":{
+                "energie":3
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "109":
+        {
+            "index":109,
+            "nom": "Centrale Nucleaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4,
+                "science":1
+            },
+            "production":{
+                "energie":3
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "110":
+        {
+            "index":110,
+            "nom": "Centrale Nucleaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4,
+                "science":1
+            },
+            "production":{
+                "energie":3
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "111":
+        {
+            "index":111,
+            "nom": "Centrale Nucleaire",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4,
+                "science":1
+            },
+            "production":{
+                "energie":3
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "112":
+        {
+            "index":112,
+            "nom": "Centre de Recherche",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "113":
+        {
+            "index":113,
+            "nom": "Centre de Recherche",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "114":
+        {
+            "index":114,
+            "nom": "Centre de Recherche",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "115":
+        {
+            "index":115,
+            "nom": "Centre de Recherche",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "116":
+        {
+            "index":116,
+            "nom": "Centre de Recherche",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "117":
+        {
+            "index":117,
+            "nom": "Centre de Recherche",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "118":
+        {
+            "index":118,
+            "nom": "Centre de Recherche",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "science":2
+            },
+            "bonusRecyclage":{
+                "science":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "119":
+        {
+            "index":119,
+            "nom": "Complexe Industriel",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "120":
+        {
+            "index":120,
+            "nom": "Complexe Industriel",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "121":
+        {
+            "index":121,
+            "nom": "Complexe Industriel",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "122":
+        {
+            "index":122,
+            "nom": "Complexe Industriel",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "123":
+        {
+            "index":123,
+            "nom": "Complexe Industriel",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "124":
+        {
+            "index":124,
+            "nom": "Complexe Industriel",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "energie":1
+            },
+            "production":{
+                "materiau":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "125":
+        {
+            "index":125,
+            "nom": "Eoliennes",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "energie":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "126":
+        {
+            "index":126,
+            "nom": "Eoliennes",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "energie":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "127":
+        {
+            "index":127,
+            "nom": "Eoliennes",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "energie":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "128":
+        {
+            "index":128,
+            "nom": "Eoliennes",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "energie":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "129":
+        {
+            "index":129,
+            "nom": "Eoliennes",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "energie":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "130":
+        {
+            "index":130,
+            "nom": "Eoliennes",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "energie":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "131":
+        {
+            "index":131,
+            "nom": "Eoliennes",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "energie":1
+            },
+            "bonusRecyclage":{
+                "energie":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "132":
+        {
+            "index":132,
+            "nom": "Place Financiere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4
+            },
+            "production":{
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "133":
+        {
+            "index":133,
+            "nom": "Place Financiere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4
+            },
+            "production":{
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "134":
+        {
+            "index":134,
+            "nom": "Place Financiere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4
+            },
+            "production":{
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "135":
+        {
+            "index":135,
+            "nom": "Place Financiere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4
+            },
+            "production":{
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "136":
+        {
+            "index":136,
+            "nom": "Place Financiere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":4
+            },
+            "production":{
+                "or":2
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "137":
+        {
+            "index":137,
+            "nom": "Plateforme Petroliere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "exploration":1
+            },
+            "production":{
+                "energie":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "138":
+        {
+            "index":138,
+            "nom": "Plateforme Petroliere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "exploration":1
+            },
+            "production":{
+                "energie":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "139":
+        {
+            "index":139,
+            "nom": "Plateforme Petroliere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "exploration":1
+            },
+            "production":{
+                "energie":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "140":
+        {
+            "index":140,
+            "nom": "Plateforme Petroliere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "exploration":1
+            },
+            "production":{
+                "energie":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "141":
+        {
+            "index":141,
+            "nom": "Plateforme Petroliere",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3,
+                "exploration":1
+            },
+            "production":{
+                "energie":1,
+                "or":1
+            },
+            "bonusRecyclage":{
+                "or":1
+            },
+            "bonusConstruc":{
+                "financier":1
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "142":
+        {
+            "index":142,
+            "nom": "Reseau de Transport",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Vehicule":1
+            }
+        },
+    "143":
+        {
+            "index":143,
+            "nom": "Reseau de Transport",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":3
+            },
+            "production":{
+                
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                "Vehicule":1
+            }
+        },
+    "144":
+        {
+            "index":144,
+            "nom": "Usine de Recyclage",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "materiau":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "145":
+        {
+            "index":145,
+            "nom": "Usine de Recyclage",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "materiau":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "146":
+        {
+            "index":146,
+            "nom": "Usine de Recyclage",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "materiau":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "147":
+        {
+            "index":147,
+            "nom": "Usine de Recyclage",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "materiau":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "148":
+        {
+            "index":148,
+            "nom": "Usine de Recyclage",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "materiau":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "149":
+        {
+            "index":149,
+            "nom": "Usine de Recyclage",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "materiau":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        },
+    "150":
+        {
+            "index":150,
+            "nom": "Usine de Recyclage",
+            "type": "Structure",
+            "coutConstruction":{
+                "materiau":2
+            },
+            "production":{
+                "materiau":2
+            },
+            "bonusRecyclage":{
+                "materiau":1
+            },
+            "bonusConstruc":{
+                
+            },
+            "pointVictoire":{
+                
+            }
+        }
+    
+
+}

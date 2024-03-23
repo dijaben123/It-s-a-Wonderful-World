@@ -1,0 +1,3734 @@
+nov. 22, 2023 11:17:07 AM iww.App main
+INFO: Partie n°10
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: Debut du jeu
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: Debut tour 1
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de draft 1-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 tient ce paquet : [Arche d'Alliance, Centrale Nucleaire, Mega Foreuse, Zeppelin, Monument National, Musee, Escadrille de Soucoupes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 tient ce paquet : [Controle du Climat, Robots de Compagnie, Ville Souterraine, Division de Chars, Tresor des Templiers, Division de Chars, Centrale Nucleaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 tient ce paquet : [Complexe Industriel, Clonage Humain, Transmutation, Super Soldats, Base Militaire, Eoliennes, Cites d'Or]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Zeppelin
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Controle du Climat
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Super Soldats
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Clonage Humain
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Complexe Industriel, Transmutation, Base Militaire, Eoliennes, Cites d'Or]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Arche d'Alliance
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Centrale Nucleaire, Mega Foreuse, Monument National, Musee, Escadrille de Soucoupes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Ville Souterraine
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Robots de Compagnie, Division de Chars, Tresor des Templiers, Division de Chars, Centrale Nucleaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Robots de Compagnie, Division de Chars, Tresor des Templiers, Centrale Nucleaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Transmutation, Base Militaire, Eoliennes, Cites d'Or]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Mega Foreuse, Monument National, Musee, Escadrille de Soucoupes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Mega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Monument National, Musee, Escadrille de Soucoupes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Robots de Compagnie
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Division de Chars, Tresor des Templiers, Centrale Nucleaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Base Militaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Transmutation, Eoliennes, Cites d'Or]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Transmutation, Cites d'Or]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Monument National
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Musee, Escadrille de Soucoupes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Tresor des Templiers
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Division de Chars, Centrale Nucleaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Centrale Nucleaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Transmutation
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Cites d'Or]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Musee
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Escadrille de Soucoupes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Escadrille de Soucoupes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Cites d'Or
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa main finale : [Zeppelin, Clonage Humain, Division de Chars, Mega Foreuse, Eoliennes, Division de Chars, Escadrille de Soucoupes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa main finale : [Controle du Climat, Arche d'Alliance, Complexe Industriel, Robots de Compagnie, Monument National, Transmutation, Centrale Nucleaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa main finale : [Super Soldats, Ville Souterraine, Centrale Nucleaire, Base Militaire, Tresor des Templiers, Musee, Cites d'Or]
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de draft 1
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de planification 1-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot1 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Zeppelin
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Clonage Humain
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Clonage Humain
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Mega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Escadrille de Soucoupes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Escadrille de Soucoupes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Mega Foreuse
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [3] Mega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [3] Mega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot2 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Controle du Climat
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Controle du Climat
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Arche d'Alliance
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Arche d'Alliance
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Robots de Compagnie
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Robots de Compagnie
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Monument National
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Monument National
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Transmutation
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Transmutation
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 8
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 4
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 9
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 8
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot3 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Super Soldats
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Ville Souterraine
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Ville Souterraine
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Base Militaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Base Militaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Tresor des Templiers
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Musee
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Cites d'Or
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Cites d'Or
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Super Soldats
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Tresor des Templiers
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Musee
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Musee 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Musee 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de planification 1
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de production 1-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 materiau via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 2 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 materiau
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 2 materiau via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 2 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 energie
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 a produit 2 energie via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 2 energie
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 1 energie via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 1 energie
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de generaux 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 science via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 2 science
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Zeppelin
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : energie, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : energie
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 0
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 science
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 1 science via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 1 science
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Super Soldats 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Super Soldats 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Tresor des Templiers 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Musee 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Super Soldats
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : science, Valeur : 7
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : science
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 0
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de general 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 a produit 1 exploration via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 1 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 0 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de generaux 2
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de production 1
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: Debut tour 2
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de draft 2-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 tient ce paquet : [Place Financiere, Cite d'Agartha, Complexe Industriel, Centre de Recherche, Eoliennes, Eoliennes, Teleportation]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 tient ce paquet : [Laboratoire Aeroporte, Division de Chars, Atlantide, Super Sonar, Place Financiere, Zone Portuaire, Plateforme Petroliere]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 tient ce paquet : [Anciens Astronautes, Sous Marin, Ville Casino, Satellites, Ile d'Avalon, Centre de Recherche, Centre de Propagande]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Laboratoire Aeroporte
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Anciens Astronautes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Atlantide, Super Sonar, Place Financiere, Zone Portuaire, Plateforme Petroliere]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Sous Marin
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Ville Casino, Satellites, Ile d'Avalon, Centre de Recherche, Centre de Propagande]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Cite d'Agartha, Centre de Recherche, Eoliennes, Eoliennes, Teleportation]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Ile d'Avalon
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Ville Casino, Satellites, Centre de Recherche, Centre de Propagande]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Cite d'Agartha
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Centre de Recherche, Eoliennes, Eoliennes, Teleportation]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Zone Portuaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Atlantide, Super Sonar, Place Financiere, Plateforme Petroliere]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Centre de Recherche, Eoliennes, Teleportation]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Atlantide
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Super Sonar, Place Financiere, Plateforme Petroliere]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Satellites
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Ville Casino, Centre de Recherche, Centre de Propagande]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Super Sonar, Plateforme Petroliere]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Ville Casino
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Centre de Recherche, Centre de Propagande]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Eoliennes, Teleportation]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Centre de Propagande]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Teleportation]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Super Sonar
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Plateforme Petroliere]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Teleportation
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Centre de Propagande
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa main finale : [Complexe Industriel, Division de Chars, Ile d'Avalon, Eoliennes, Place Financiere, Centre de Recherche, Teleportation]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa main finale : [Laboratoire Aeroporte, Sous Marin, Cite d'Agartha, Atlantide, Ville Casino, Eoliennes, Plateforme Petroliere]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa main finale : [Anciens Astronautes, Place Financiere, Zone Portuaire, Satellites, Centre de Recherche, Super Sonar, Centre de Propagande]
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de draft 2
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de planification 2-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot1 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Ile d'Avalon
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Teleportation
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Teleportation
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Mega Foreuse
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Complexe Industriel
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Ile d'Avalon
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Complexe Industriel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [4] Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Complexe Industriel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Ile d'Avalon 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot2 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Laboratoire Aeroporte
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Laboratoire Aeroporte
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Sous Marin
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Sous Marin
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Cite d'Agartha
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Cite d'Agartha
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Atlantide
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Atlantide
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Ville Casino
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Ville Casino
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 9
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 5
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 12
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 9
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot3 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Anciens Astronautes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Anciens Astronautes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Zone Portuaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Satellites
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Super Sonar
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Centre de Propagande
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Super Soldats
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Tresor des Templiers
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Musee
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Zone Portuaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Satellites
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centre de Recherche
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Super Sonar
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centre de Propagande
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Super Soldats 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Satellites 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Super Sonar 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Super Soldats
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de planification 2
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de production 2-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 materiau via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 2 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Complexe Industriel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [4] Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 materiau
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 2 materiau via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 2 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [3] Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 energie
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 a produit 2 energie via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 2 energie
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 1 energie via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 1 energie
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Satellites 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de generaux 3
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 science via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 2 science
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 science
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 1 science via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 1 science
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Super Soldats 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Satellites 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Super Sonar 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Super Soldats
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de general 2
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 a produit 1 exploration via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 1 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 0 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de generaux 4
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de production 2
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: Debut tour 3
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de draft 3-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 tient ce paquet : [Eoliennes, Complexe Industriel, Neuroscience, Societe Secrete, Base Militaire, Plateforme Petroliere, Laboratoire Aeroporte]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 tient ce paquet : [Musee, Voyage Temporel, Ascenseur Spatial, Centre de Recherche, Mega Bombe, Division de Chars, Tombeau d'Alexandre]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 tient ce paquet : [Triangle des Bermudes, Reseau de Transport, Centrale Nucleaire, Eoliennes, Sous Marin, Usine de Recyclage, Zone Portuaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Societe Secrete
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Musee
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Usine de Recyclage
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Triangle des Bermudes, Reseau de Transport, Centrale Nucleaire, Sous Marin, Zone Portuaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Complexe Industriel, Neuroscience, Base Militaire, Plateforme Petroliere, Laboratoire Aeroporte]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Voyage Temporel, Ascenseur Spatial, Mega Bombe, Division de Chars, Tombeau d'Alexandre]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Voyage Temporel, Ascenseur Spatial, Mega Bombe, Tombeau d'Alexandre]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Triangle des Bermudes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Reseau de Transport, Centrale Nucleaire, Sous Marin, Zone Portuaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Neuroscience, Base Militaire, Plateforme Petroliere, Laboratoire Aeroporte]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Neuroscience, Base Militaire, Laboratoire Aeroporte]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Ascenseur Spatial, Mega Bombe, Tombeau d'Alexandre]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Reseau de Transport
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Centrale Nucleaire, Sous Marin, Zone Portuaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Sous Marin, Zone Portuaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Neuroscience
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Base Militaire, Laboratoire Aeroporte]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Mega Bombe
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Ascenseur Spatial, Tombeau d'Alexandre]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Ascenseur Spatial
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Tombeau d'Alexandre]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Sous Marin
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Zone Portuaire]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Base Militaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Laboratoire Aeroporte]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Laboratoire Aeroporte
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Zone Portuaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa main finale : [Societe Secrete, Usine de Recyclage, Division de Chars, Plateforme Petroliere, Centrale Nucleaire, Ascenseur Spatial, Laboratoire Aeroporte]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa main finale : [Musee, Eoliennes, Triangle des Bermudes, Voyage Temporel, Neuroscience, Sous Marin, Tombeau d'Alexandre]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa main finale : [Eoliennes, Centre de Recherche, Complexe Industriel, Reseau de Transport, Mega Bombe, Base Militaire, Zone Portuaire]
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de draft 3
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de planification 3-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot1 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Societe Secrete
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Societe Secrete
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Usine de Recyclage
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Usine de Recyclage
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Ascenseur Spatial
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Laboratoire Aeroporte
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Mega Foreuse
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Complexe Industriel
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Ile d'Avalon
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Laboratoire Aeroporte
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Complexe Industriel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [6] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [3] Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Complexe Industriel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Mega Foreuse 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Complexe Industriel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Mega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: carte construiteMega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource = {materiau=0, energie=0, science=1, or=2, exploration=0}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: bonusConstruction = {}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: AVANT FINANCIER = 0 GENERAL = 2 KRYSTALLIUM = 0
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource apres construction = {materiau=0, energie=0, science=1, or=2, exploration=0}
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Ascenseur Spatial 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Ascenseur Spatial 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Ascenseur Spatial
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Ascenseur Spatial 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Complexe Industriel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] Ile d'Avalon 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [6] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [7] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [8] Ascenseur Spatial 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [9] Laboratoire Aeroporte 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [10] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : materiau, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [2] Ressource : energie, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 0
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot2 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Musee
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Musee
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Triangle des Bermudes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Triangle des Bermudes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Neuroscience
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Neuroscience
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Sous Marin
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Sous Marin
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Voyage Temporel
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Tombeau d'Alexandre
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 10
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 6
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Voyage Temporel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Voyage Temporel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Voyage Temporel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Voyage Temporel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 12
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 10
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Tombeau d'Alexandre 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Tombeau d'Alexandre 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Tombeau d'Alexandre 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Tombeau d'Alexandre 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Tombeau d'Alexandre 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Tombeau d'Alexandre 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Tombeau d'Alexandre 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Tombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: carte construiteTombeau d'Alexandre
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource = {materiau=0, energie=0, science=0, or=0, exploration=3}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: bonusConstruction = {general=2}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: AVANT FINANCIER = 0 GENERAL = 4 KRYSTALLIUM = 5
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource apres construction = {materiau=0, energie=0, science=0, or=0, exploration=3}
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 6
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Voyage Temporel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : science, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [2] Ressource : krystallium, Valeur : 3
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : science
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 5
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot3 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Reseau de Transport
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Mega Bombe
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Mega Bombe
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Base Militaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Zone Portuaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Zone Portuaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Super Soldats
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Tresor des Templiers
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Musee
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Zone Portuaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Satellites
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centre de Recherche
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Super Sonar
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centre de Propagande
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Reseau de Transport
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Base Militaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Reseau de Transport 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] Base Militaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [6] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Satellites 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Base Militaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Satellites
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Satellites 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Base Militaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Satellites
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Super Soldats 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Satellites 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Super Sonar 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Super Soldats
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Musee 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Zone Portuaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centre de Propagande 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Zone Portuaire
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Musee 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Zone Portuaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centre de Propagande 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Musee
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de planification 3
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de production 3-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Complexe Industriel
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [4] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [5] Ile d'Avalon
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [6] Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [7] Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [8] Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [9] Laboratoire Aeroporte
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>9] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         12
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 1 materiau
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 materiau via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 3 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Complexe Industriel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 5
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 2 materiau via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 2 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Reseau de Transport 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] Base Militaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [6] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [5] Base Militaire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1gagne 1 financier
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de financiers 1
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Complexe Industriel
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [4] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [5] Ile d'Avalon
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [6] Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [7] Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [8] Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [9] Laboratoire Aeroporte
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>9] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         2
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Complexe Industriel
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [4] Ile d'Avalon
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [5] Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [6] Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [7] Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [8] Laboratoire Aeroporte
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>8] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         2
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Ile d'Avalon
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [4] Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [5] Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [6] Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [7] Laboratoire Aeroporte
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>7] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         7
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 energie
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 a produit 2 energie via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 2 energie
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 5
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Voyage Temporel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : krystallium, Valeur : 3
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : krystallium
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 4
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 1 energie via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 1 energie
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Base Militaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Base Militaire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de generaux 7
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         2
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 science via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 2 science
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Ascenseur Spatial 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 science
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 4
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 1 science via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 1 science
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Super Soldats 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Satellites 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Super Sonar 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de general 3
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Ile d'Avalon
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [4] Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [5] Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [6] Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>6] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         3
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [4] Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [5] Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>5] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         3
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [4] Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>4] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         3
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Ascenseur Spatial
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>3] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         3
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 4
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>2] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         3
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 1 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 1 exploration
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 a produit 1 exploration via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 1 exploration
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 4
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 0 exploration
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de production 3
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: Debut tour 4
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de draft 4-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 tient ce paquet : [Usine de Recyclage, Place Financiere, Ville Sous Marine, Generateur Quantique, Mines du Roi Salomon, Brise Glace, Train Magnetique]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 tient ce paquet : [Ville Casino, Centre de Recherche, Plateforme Petroliere, Complexe Industriel, Division de Chars, Complexe Industriel, Mega Foreuse]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 tient ce paquet : [Laboratoire Aeroporte, Barrage Geant, Animorphes, Canon Solaire, Base Lunaire, Universite, Eoliennes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Ville Casino
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Canon Solaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Centre de Recherche, Plateforme Petroliere, Division de Chars, Complexe Industriel, Mega Foreuse]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Laboratoire Aeroporte
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Barrage Geant, Animorphes, Base Lunaire, Universite, Eoliennes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Generateur Quantique
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Usine de Recyclage, Ville Sous Marine, Mines du Roi Salomon, Brise Glace, Train Magnetique]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Barrage Geant
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Animorphes, Base Lunaire, Universite, Eoliennes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Usine de Recyclage
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Ville Sous Marine, Mines du Roi Salomon, Brise Glace, Train Magnetique]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Plateforme Petroliere, Division de Chars, Complexe Industriel, Mega Foreuse]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Ville Sous Marine
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Mines du Roi Salomon, Brise Glace, Train Magnetique]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Division de Chars, Complexe Industriel, Mega Foreuse]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Animorphes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Base Lunaire, Universite, Eoliennes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Division de Chars, Mega Foreuse]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Base Lunaire
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Universite, Eoliennes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Brise Glace
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Mines du Roi Salomon, Train Magnetique]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Universite
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 passe ce paquet au joueur suivant : [Eoliennes]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Mines du Roi Salomon
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 passe ce paquet au joueur suivant : [Train Magnetique]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 passe ce paquet au joueur suivant : [Mega Foreuse]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 a choisi la carte la plus productive.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 a pioché une carte au hasard.
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa carte : Train Magnetique
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa carte : Mega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa carte : Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot1 revele sa main finale : [Place Financiere, Complexe Industriel, Barrage Geant, Ville Sous Marine, Complexe Industriel, Universite, Train Magnetique]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot2 revele sa main finale : [Ville Casino, Laboratoire Aeroporte, Usine de Recyclage, Plateforme Petroliere, Base Lunaire, Mines du Roi Salomon, Mega Foreuse]
+nov. 22, 2023 11:17:07 AM iww.Draft lancementDraft
+INFO: bot3 revele sa main finale : [Canon Solaire, Generateur Quantique, Centre de Recherche, Animorphes, Brise Glace, Division de Chars, Eoliennes]
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de draft 4
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de planification 4-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot1 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Place Financiere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Barrage Geant
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Ville Sous Marine
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Complexe Industriel
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Universite
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Universite
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Train Magnetique
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot1 a recyclé la carte Train Magnetique
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Barrage Geant
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Ville Sous Marine
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [3] Barrage Geant
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [4] Ville Sous Marine
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>4] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         5
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Barrage Geant
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Barrage Geant
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [3] Ville Sous Marine
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Ville Sous Marine
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 6
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Barrage Geant
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Barrage Geant
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Ville Sous Marine
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [1] Ville Sous Marine
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot2 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Ville Casino
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Ville Casino
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Laboratoire Aeroporte
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Laboratoire Aeroporte
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Usine de Recyclage
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Usine de Recyclage
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Plateforme Petroliere
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Base Lunaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Mines du Roi Salomon
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Mines du Roi Salomon
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Mega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot2 a recyclé la carte Mega Foreuse
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Voyage Temporel
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Base Lunaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Voyage Temporel
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Base Lunaire
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>2] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         2
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 6
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO: **C'est au tour de bot3 de jouer!**
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Canon Solaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Canon Solaire
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Generateur Quantique
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Generateur Quantique
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Centre de Recherche
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Animorphes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de recycler
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Brise Glace
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         bot3 a recyclé la carte Brise Glace
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:         Vous avez choisi de construire Eoliennes
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Cartes en construction du joueur:
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Super Soldats
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centrale Nucleaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Tresor des Templiers
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Musee
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Place Financiere
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Zone Portuaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Satellites
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centre de Recherche
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Super Sonar
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centre de Propagande
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Reseau de Transport
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Base Militaire
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Centre de Recherche
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Animorphes
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Division de Chars
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:           Eoliennes
+
+nov. 22, 2023 11:17:07 AM iww.Planification startPlanification
+INFO:     Distribution des ressources
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : materiau, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Reseau de Transport 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] Base Militaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [6] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [7] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [8] Eoliennes 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [9] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : energie, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Animorphes 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Animorphes 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Animorphes
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : science, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : or, Valeur : 0
+nov. 22, 2023 11:17:07 AM iww.Planification distributionRessources
+INFO:         Ressource : exploration, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Tresor des Templiers 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 4
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de planification 4
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: -----------------------------------------------------phase de production 4-----------------------------------------------------
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         2
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 1 materiau
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 materiau via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 3 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 5
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         --Ressource transformées en krystallium--
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 6
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 2 materiau via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 2 materiau
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Place Financiere 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Reseau de Transport 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] Base Militaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [6] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [7] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [8] Eoliennes 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [9] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [5] Base Militaire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1gagne 1 financier
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de financiers 2
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         2
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 energie
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Ville Sous Marine 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Ville Sous Marine
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : energie, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : energie
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: carte construiteVille Sous Marine
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource = {materiau=2, energie=0, science=0, or=0, exploration=0}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: bonusConstruction = {}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: AVANT FINANCIER = 2 GENERAL = 3 KRYSTALLIUM = 2
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource apres construction = {materiau=2, energie=0, science=0, or=0, exploration=0}
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 1
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 a produit 2 energie via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 2 energie
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 2
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 6
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 1 energie via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 1 energie
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Centre de Recherche 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de generaux 8
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         2
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 1 science
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 science via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 3 science
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Zeppelin 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Division de Chars 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Barrage Geant 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Division de Chars
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : energie, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : energie
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: carte construiteDivision de Chars
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource = {materiau=2, energie=0, science=2, or=0, exploration=0}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: bonusConstruction = {general=1}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: AVANT FINANCIER = 2 GENERAL = 3 KRYSTALLIUM = 1
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource apres construction = {materiau=2, energie=0, science=2, or=0, exploration=0}
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 0
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 science
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 6
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 1
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 a produit 1 science via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 1 science
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:           Cartes nécessitant la ressource:
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Super Soldats 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] Centrale Nucleaire 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [3] Satellites 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [4] Super Sonar 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [5] Animorphes 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [6] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         ressource distribuee à [2] Centrale Nucleaire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de general 5
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         2
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 6
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Voyage Temporel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : krystallium, Valeur : 2
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : krystallium
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 5
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 0 or
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Zeppelin
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [2] Barrage Geant
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>2] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         [1] Barrage Geant
+
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Quelle carte voulez vous defausser ? [>1] pour annuler
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         1
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 1 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 2 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 a produit 1 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 possede 4 exploration
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         Voulez-vous defaussez des cartes en construction ? [1]oui [2]non
+nov. 22, 2023 11:17:07 AM iww.Defausse defausseEnConstruction
+INFO:         0
+
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 a produit 1 exploration via son empire
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot2 possede 1 exploration
+nov. 22, 2023 11:17:07 AM iww.Construction distribution
+INFO:         À quelle carte voulez-vous distribuer la ressource (-1 sur la ressource):
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction choix
+INFO:         Ressource stockée
+nov. 22, 2023 11:17:07 AM iww.Joueur stockRessource
+INFO:         Ressource stockées 3
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 5
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise Krystallium ? [0]oui [1]non
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [1] Voyage Temporel 
+nov. 22, 2023 11:17:07 AM iww.Construction affichageChoix
+INFO:       [2] aucune
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:         Carte choisie Voyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO:     [1] Ressource : krystallium, Valeur : 1
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Utilise le krystallium pour quelle ressource ?
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: 0
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: ressource choisie : krystallium
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: carte construiteVoyage Temporel
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource = {materiau=0, energie=1, science=0, or=0, exploration=0}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: bonusConstruction = {}
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: AVANT FINANCIER = 0 GENERAL = 8 KRYSTALLIUM = 5
+nov. 22, 2023 11:17:07 AM iww.Joueur ajoutCarteConstruite
+INFO: ressource apres construction = {materiau=0, energie=1, science=0, or=0, exploration=0}
+nov. 22, 2023 11:17:07 AM iww.Construction distributionKrystallium
+INFO: Krystallium : 4
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot3 possede 0 exploration
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Le joueur bot1 gagne 1 general
+nov. 22, 2023 11:17:07 AM iww.Production startProduction
+INFO: Nombre de generaux 6
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin phase de production 4
+
+nov. 22, 2023 11:17:07 AM iww.Partie lancerPartie
+INFO: fin du jeu
+

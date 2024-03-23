@@ -1,0 +1,103 @@
+{
+    "Empire d'Azteca":
+    {
+        "nom":"Empire d'Azteca",
+        "face A":{
+            "points de victoire":{
+                "Découverte":3
+            },
+            "production":{
+                "energie":2,
+                "exploration":1
+            }
+        },
+        "face B":{
+            "production":{
+                "materiau":2,
+                "energie":1,
+                "science":1
+            }
+        }
+    },
+    "Union Panafricaine":
+    {
+        "nom":"Union Panafricaine",
+        "face A":{
+            "points de victoire":{
+                "Recherche":2
+            },
+            "production":{
+                "materiau":2,
+                "science":2
+            }
+        },
+        "face B":{
+            "production":{
+                "materiau":2,
+                "energie":1,
+                "science":1
+            }
+        }
+    },
+    "Federation d'Asie":
+    {
+        "nom":"Federation d'Asie",
+        "face A":{
+            "points de victoire":{
+                "Projet":2
+            },
+            "production":{
+                "materiau":1,
+                "or":2
+            }
+        },
+        "face B":{
+            "production":{
+                "materiau":2,
+                "energie":1,
+                "science":1
+            }
+        }
+    },
+    "Etats du Noram":
+    {
+        "nom":"Etats du Noram",
+        "face A":{
+            "points de victoire":{
+                "financier":1
+            },
+            "production":{
+                "materiau":3,
+                "or":1
+            }
+        },
+        "face B":{
+            "production":{
+                "materiau":2,
+                "energie":1,
+                "science":1
+            }
+        }
+    },
+    "Republique d'Europa":
+    {
+        "nom":"Republique d'Europa",
+        "face A":{
+            "points de victoire":{
+                "general":1
+            },
+            "production":{
+                "materiau":2,
+                "energie":1,
+                "science":1
+            }
+        },
+        "face B":{
+            "production":{
+                "materiau":2,
+                "energie":1,
+                "science":1
+            }
+        }
+    }
+}
